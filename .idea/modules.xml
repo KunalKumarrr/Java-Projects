@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CheckPalindrome/CheckPalindrome.iml" filepath="$PROJECT_DIR$/CheckPalindrome/CheckPalindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DigitSum/DigitSum.iml" filepath="$PROJECT_DIR$/DigitSum/DigitSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstAndLastDigitSum/FirstAndLastDigitSum.iml" filepath="$PROJECT_DIR$/FirstAndLastDigitSum/FirstAndLastDigitSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinMaxReale/MinMaxReale.iml" filepath="$PROJECT_DIR$/MinMaxReale/MinMaxReale.iml" />
+      <module fileurl="file://$PROJECT_DIR$/canPack/canPack.iml" filepath="$PROJECT_DIR$/canPack/canPack.iml" />
+    </modules>
+  </component>
+</project>
